@@ -1,0 +1,6 @@
+Flask
+transformers==4.18.0
+tensorflow==2.9.1
+numpy
+pandas
+python-dotenv
